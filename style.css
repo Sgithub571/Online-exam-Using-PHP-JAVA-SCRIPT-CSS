@@ -1,0 +1,24 @@
+/* CSS Document */
+.body{
+	min-width:900px;
+	min-height:450px;
+}
+
+.tab-style-1{
+	
+}
+
+.tab-style-1 td, th{
+	margin:5px;
+	background-color:#CCCCCC;
+}
+
+
+input, select{
+	height:30px;
+}
+
+input[type="radio"]{
+	margin:5px 10px 5px 0px;
+	height:10px;
+}
